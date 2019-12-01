@@ -1,0 +1,1 @@
+{"name":"portfolio","version":"1.0.0","description":"Portfolio built with Next.js","main":"index.js","scripts":{"dev":"next","build":"next build","start":"next start"},"author":{"name":"Lionel-nathan"},"license":"ISC","dependencies":{"next":"^9.1.4","react":"^16.12.0","react-dom":"^16.12.0"},"readme":"ERROR: No README data found!","_id":"portfolio@1.0.0"}
